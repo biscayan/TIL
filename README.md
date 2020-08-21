@@ -11,4 +11,6 @@ Today I Learned.
 - [CPP](https://github.com/biscayan/TIL/tree/master/CPP)
 ### Math
 - Linear algebra
+### Linex
+- [Linux commands](https://github.com/biscayan/TIL/tree/master/Linux/Linux%20commands)
 ### Etc
