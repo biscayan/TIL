@@ -6,8 +6,9 @@ Today I Learned.
 ### Speech recognition
 - [Accented speech recognition](https://github.com/biscayan/TIL/tree/master/Speech%20recognition/Accented%20speech%20recognition)
 ### Algorithm
+- [Algorithm problems](https://github.com/biscayan/TIL/tree/master/Algorithm/Algorithm%20problems)
 ### C++
 - [CPP](https://github.com/biscayan/TIL/tree/master/CPP)
-
-
-
+### Math
+- Linear algebra
+### Etc
