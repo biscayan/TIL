@@ -10,7 +10,7 @@ Today I Learned.
 ### Programming
 - [Python]
 - [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
-- [Pragmatic_programmer]
+- [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
 ### Math
 - Linear algebra
 ### Linex
