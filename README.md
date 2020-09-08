@@ -9,7 +9,7 @@ Today I Learned.
 - [Algorithm problems](https://github.com/biscayan/TIL/tree/master/Algorithm/Algorithm%20problems)
 ### Programming
 - [Python]
-- [CPP]
+- [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
 - [Pragmatic_programmer]
 ### Math
 - Linear algebra
