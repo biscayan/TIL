@@ -1,0 +1,53 @@
+# Paper
+The paper list what I read
+## Paper list
+- Accent as a Social Symbol
+- A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
+- Adversarial Training for Multilingual Acoustic Modeling
+- An overview of Automatic Speech Attribute Transcription (ASAT)
+- An overview of End-to-end Automatic Speech Recognition
+- An overview of Multi-Task Learning in Deep Neural Networks
+- Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
+- Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
+- Automatic Speech Recognition of Multiple Accented Englsih Data
+- Calibrating rhythm: First language and second language studies
+- Common Voice: A Massively-Multilingual Speech Corpus
+- Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
+- Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+- Control Methods Used in a Study of the Vowels
+- Correlates of linguistic rhythm in the speech signal
+- Data Augmentation Improves Recognition of Foreign Accented Speech
+- Deep Speech2: End-to-end Speech Recognition in English and Mandarin
+- Domain Adversarial Training for Accented Speech Recognition
+- Durational Variability in Speech and the Rhythm Class Hypothesis
+- End-to-end Accented Speech Recognition
+- ESPnet: End-to-end Speech Processing Toolkit
+- Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
+- History of ESL Pronunciation Teaching
+- Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
+- Intonation
+- Introducing Attribute Features to Foreign Accent Recognition
+- Language Discrimination by Newborns: Toward an Understanding of the Role of Rhythm
+- Language identification with suprasegmental cues: A study based on speech resynthesis
+- Leveraging Native Language Information for Improved Accented Speech Recognition
+- Librispeech: An ASR Corpus Based on Public Domain Audio Books
+- Listen, Attend and Spell
+- Long-short Term Memory
+- Measures of Native and Non-Native Rhythm in a Quantity Language
+- Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
+- Multi-task Learning for Speech Recognition: An overview
+- On the distinction between 'stress-timed' and 'syllable-timed' languages
+- On the Historical Phonotactic of English
+- Relations between language rhythm and speech rate
+- Stress-timing and Syllable-timing Reanalyzed
+- Sound Change And Syllable Structure in Germanic Phonology
+- SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
+- Speech rhythm across turn transitions in cross-cultural talk-in-interaction
+- The Environment for Open-syllable Lengthening in Middle English
+- The Historical Evolution of English Pronunciation
+- The Kaldi Speech Recognition Toolkit
+- The Original ToBI System and the Evolution of the ToBI Framework
+- The Past, Present and Future of English Rhythm
+- Voice Onset Time (VOT) at 50: Theoretical and practical issues in measuring voicing distinctions
+- Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
+- 그림의 법칙: 연쇄 밀기 입장과 연쇄 당김 입장
