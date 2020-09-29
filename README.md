@@ -16,3 +16,4 @@ Today I Learned.
 ### Linex
 - [Linux commands](https://github.com/biscayan/TIL/tree/master/Linux/Linux%20commands)
 ### Etc
+- [paper](https://github.com/biscayan/TIL/blob/master/Etc/paper.md)
