@@ -19,6 +19,7 @@ The paper list what I read
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
+- Domain-Adversarial Training of Neural Networks
 - Durational Variability in Speech and the Rhythm Class Hypothesis
 - End-to-end Accented Speech Recognition
 - ESPnet: End-to-end Speech Processing Toolkit
