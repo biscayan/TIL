@@ -11,7 +11,7 @@ make a dataset using [corpora creator](https://github.com/mozilla/CorporaCreator
 - Total duration : 13h
 
 3. England  
-- Number of files : 35020
+- Number of files : 35003
 - Total duration : 41h
 
 4. India  
