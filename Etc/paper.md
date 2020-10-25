@@ -16,6 +16,7 @@ The paper list what I read
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - Control Methods Used in a Study of the Vowels
 - Correlates of linguistic rhythm in the speech signal
+- Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
