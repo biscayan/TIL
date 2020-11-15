@@ -3,6 +3,7 @@ The paper list what I read
 ## Paper list
 - Accent as a Social Symbol
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
+- Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
 - Adversarial Training for Multilingual Acoustic Modeling
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
