@@ -51,6 +51,7 @@ The paper list what I read
 - The Kaldi Speech Recognition Toolkit
 - The Original ToBI System and the Evolution of the ToBI Framework
 - The Past, Present and Future of English Rhythm
+- Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 - Voice Onset Time (VOT) at 50: Theoretical and practical issues in measuring voicing distinctions
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 - 그림의 법칙: 연쇄 밀기 입장과 연쇄 당김 입장
