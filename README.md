@@ -12,7 +12,7 @@ Today I Learned.
 - [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
 - [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
 ### Math
-- Linear algebra
+- [Linear algebra](https://github.com/biscayan/TIL/tree/master/Math/Linear%20algebra)
 ### Linex
 - [Linux commands](https://github.com/biscayan/TIL/tree/master/Linux/Linux%20commands)
 ### Etc
