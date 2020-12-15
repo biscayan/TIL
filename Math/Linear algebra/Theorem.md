@@ -33,3 +33,15 @@ then some vj (with j>1) is a linear combination of the preceding vectors v1 ... 
 If a set contains more vectors than there are entries in each vector, then the set is linearly dependent.  
 ## Theorem 9. 
 If a set contains the zero vector, then the set is linearly dependent.
+## Theorem 10.
+Let T: Rn -> Rm be a linear transformation. Then there exists a unique matrix A such that  
+T(x) = Ax for all x in Rn  
+In fact, A is the m x n matrix whose j-th column is the vector T(ej), where ej is the j-th column of the identity matrix in Rn:  
+A = [T(e1) ... T(en)], A is standard natrix for the linear transformation T.
+## Theorem 11.
+Let T: Rn -> Rm be a linear transformation.  
+Then T is one-to-one if and only if the equation T(x) = 0 has only trivial solution. 
+## Theorem 12.
+Let T: Rn -> Rm be a linear transformation and let A be the standard matrix for T.  
+Then, T maps Rn onto Rm if and only if the columns of A span Rm.  
+T is one-to-one if and only if the columns of A are linearly independent. 
