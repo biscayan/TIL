@@ -1,4 +1,4 @@
-# Linear algebra theorems
+# Section 1. Linear Equations in Linear Algebra
 ## Theorem 1. Uniqueness of the Reduced Echelon Form
 Each matrix is row equivalent to **one and only one** reduced echelon matrix 
 ## Theorem 2. Existence and Uniqueness Theorem
