@@ -8,9 +8,9 @@ Today I Learned.
 ### Algorithm
 - [Algorithm problems](https://github.com/biscayan/TIL/tree/master/Algorithm/Algorithm%20problems)
 ### Programming
-- [Common]
+- [Common](https://github.com/biscayan/TIL/tree/master/Programming/Common)
 - [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
-- [Linux commands]
+- [Linux](https://github.com/biscayan/TIL/tree/master/Programming/Linux)
 - [Python]
 - [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
 ### Math
