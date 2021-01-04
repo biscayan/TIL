@@ -5,8 +5,6 @@ Today I Learned.
 ## Categories
 ### Speech recognition
 - [Accented speech recognition](https://github.com/biscayan/TIL/tree/master/Speech%20recognition/Accented%20speech%20recognition)
-### Algorithm
-- [Algorithm problems](https://github.com/biscayan/TIL/tree/master/Algorithm/Algorithm%20problems)
 ### Programming
 - [Common](https://github.com/biscayan/TIL/tree/master/Programming/Common)
 - [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
