@@ -6,12 +6,16 @@
 - ctrl + shift + enter : 위에 행 삽입  
 - alt + down : 행을 아래로 이동  
 - alt + up : 행을 위로 이동  
+- ctrl + d : 다음 선택 찾기  
 - ctrl + shift + l : 현재 선택 항목을 모두 선택  
 - ctrl + ] : 라인 들여쓰기  
 - ctrl + [ : 라인 내어쓰기  
 - ctrl + / : 주석 토글  
 - ctrl + f : 찾기  
 - ctrl + h : 바꾸기  
+- ctrl + left/right : 단어 단위로 이동  
+- ctrl + shift + up/down/left/right : 단어 단위로 선택  
+- alt + click : 커서 삽입  
 ## 네비게이션
 - ctrl + g : 행으로 이동  
 - ctrl + p : 빠른 열기, 파일로 이동  
@@ -28,6 +32,7 @@
 ## 디스플레이
 - ctrl + = : 확대  
 - ctrl + - : 축소  
+- ctrl + b : 사이드바 토글  
 - ctrl + shift + c : 새 프롬프트 열기  
 - ctrl + shift + v : 마크다운 미리보기 토글  
 - ctrl + ` : 통합 터미널 토글  

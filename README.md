@@ -8,12 +8,12 @@ Today I Learned.
 ### Algorithm
 - [Algorithm problems](https://github.com/biscayan/TIL/tree/master/Algorithm/Algorithm%20problems)
 ### Programming
-- [Python]
+- [Common]
 - [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
+- [Linux commands]
+- [Python]
 - [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
 ### Math
 - [Linear algebra](https://github.com/biscayan/TIL/tree/master/Math/Linear%20algebra)
-### Linex
-- [Linux commands](https://github.com/biscayan/TIL/tree/master/Linux/Linux%20commands)
 ### Etc
 - [paper](https://github.com/biscayan/TIL/blob/master/Etc/paper.md)
