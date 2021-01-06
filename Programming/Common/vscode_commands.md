@@ -17,18 +17,18 @@
 - ctrl + shift + up/down/left/right : 단어 단위로 선택  
 - alt + click : 커서 삽입  
 ## 네비게이션
-- ctrl + g : 행으로 이동  
 - ctrl + p : 빠른 열기, 파일로 이동  
 ## 에디터/윈도우 관리
-- ctrl + shift + n : 새창 열기  
+- ctrl + shift + n : 새 창 열기  
 - ctrl + w : 창 닫기  
 - ctrl + \ : 편집기 나누기  
 - ctrl + 1 : 첫번째 편집기 그룹에 초점 맞추기  
 - ctrl + 2 : 두번째 편집기 그룹에 초점 맞추기 ...  
 ## 파일 관리
-- ctrl + n : 새탭 열기  
+- ctrl + n : 새 탭 열기  
 - ctrl + o : 파일 열기  
 - ctrl + s : 파일 저장  
+- ctrl + k + ctrl + o : 폴더 열기  
 ## 디스플레이
 - ctrl + = : 확대  
 - ctrl + - : 축소  
