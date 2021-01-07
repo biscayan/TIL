@@ -19,10 +19,13 @@ dataset for experiment
 - cv6_1_ind_trainlim : 4000 files / 6 hours  
 
 5. US   
-- cv_us100_1_trainlim : 80000 files / 98 hours  
-- cv_us100_2_trainlim : 80000 files / 98 hours 
-- cv_us25_trainlim : 20000 files / 24 hours  
-- cv6_1_us30_trainlim : 24000 files
+- cv4_us100_1_trainlim : 80000 files / 98 hours  
+- cv4_us100_2_trainlim : 80000 files / 98 hours  
+- cv4_us25_1_trainlim : 20000 files / 24 hours  
+- cv4_us25_2_trainlim : 20000 files / 24 hours  
+- cv6_1_us60_trainlim : 40000 files / 60 hours  
+- cv6_1_us45_trainlim : 30000 files / 45 hours  
+- cv6_1_us35_trainlim : 24000 files / 36 hours  
 
 ## Validation set
 1. Australia  
@@ -41,9 +44,9 @@ dataset for experiment
 - cv_ind_vallim : 2000 files / 3 hours  
 - cv6_1_ind_vallim : 4000 files / 6 hours  
 
-5. US   
-- Number of files : 2000
-- Total duration : 2h
+5. US  
+- cv_us4_vallim : 2000 files / 2 hours  
+- cv_us6_1_vallim : 4000 files / 6 hours 
 
 ## Test set
 1. Australia  
@@ -63,5 +66,5 @@ dataset for experiment
 - cv6_1_ind_testlim : 4000 files / 6 hours  
 
 5. US  
-- Number of files : 2000
-- Total duration : 2h
+- cv_us4_testlim : 2000 files / 2 hours  
+- cv_us6_1_testlim : 4000 files / 6 hours 
