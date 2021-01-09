@@ -7,7 +7,7 @@
 - ctrl + enter : 아래에 행 삽입  
 - alt + down : 행을 아래로 옮기기  
 - alt + up : 행을 위로 옮기기  
-- ctrl + d : 다음 선택 선택  
+- ctrl + d : 다음 선택 찾기  
 - ctrl + shift + l : 현재 선택 항목을 모두 선택  
 - ctrl + ] : 라인 들여쓰기  
 - ctrl + [ : 라인 내어쓰기  
