@@ -1,24 +1,20 @@
 # 자주 사용하는 VisualStudioCode (vscode) 단축키 모음
 [visual studio code tutorial](https://demun.github.io/vscode-tutorial/shortcuts/)  
 ## 기본 편집
-- ctrl + x : 행 잘라내기  
-- ctrl + c : 행 복사  
-- ctrl + v : 행 붙여넣기  
 - ctrl + enter : 아래에 행 삽입  
 - alt + down : 행을 아래로 옮기기  
 - alt + up : 행을 위로 옮기기  
 - ctrl + d : 다음 선택 찾기  
 - ctrl + shift + l : 현재 선택 항목을 모두 선택  
+- ctrl + shift + k : 행 삭제  
 - ctrl + ] : 라인 들여쓰기  
 - ctrl + [ : 라인 내어쓰기  
 - ctrl + / : 주석 토글  
-- ctrl + f : 찾기  
 - ctrl + h : 바꾸기  
 - ctrl + left/right : 단어 단위로 이동  
 - ctrl + up : 스크롤 올리기  
 - ctrl + down : 스크롤 내리기  
 - ctrl + shift + up/down/left/right : 단어 단위로 선택  
-- ctrl + z : 되돌리기  
 - alt + click : 커서 삽입  
 ## 네비게이션
 - ctrl + p : 빠른 열기, 파일로 이동  
@@ -32,7 +28,6 @@
 - ctrl + n : 새 탭 열기  
 - ctrl + o : 파일 열기  
 - ctrl + s : 파일 저장  
-- ctrl + k s : 파일 모두 저장  
 - ctrl + k ctrl + o : 폴더 열기  
 ## 디스플레이
 - ctrl + = : 확대  
