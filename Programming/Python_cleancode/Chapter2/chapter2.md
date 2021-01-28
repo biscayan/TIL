@@ -120,3 +120,89 @@ class User:
 프로퍼티를 사용하면 이를 해결할 수 있다. @property 데코레이터는 무언가에 응답하기 위한 쿼리이고, @<property_name>.setter는 무언가를 하기 위한 커맨드이다.  
 
 ## 이터러블 객체
+파이썬에는 리스트, 튜플처럼 기본적으로 반복 가능한 객체가 있다. 그러나 이러한 내장 반복형 객체 말고, 로직을 사용해 자체 이터러블을 만들 수도 있다.  
+이터러블은 ```__iter__``` 매직 메소드를 구현핸 객체, 이터레이터는 ```__next__`` 매직 메소드를 구현핸 객체이다.  
+### 이터러블 객체 만들기
+객체를 반복하려고 하면 파이썬은 해당 객체의 iter() 함수를 호출한다. 이 함수가 처음으로 하는 것은 해당 객체에 ```__iter__``` 메소드가 있는지를 확인하는 것이다. 만약 있다면 ```__iter__``` 메소드를 실행한다.
+```python
+class DateRangeIterable:
+    """An iterable that contains its own iterator object."""
+
+    def __init__(self, start_date, end_date):
+        self.start_date = start_date
+        self.end_date = end_date
+        self._present_day = start_date
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self._present_day >= self.end_date:
+            raise StopIteration
+        today = self._present_day
+        self._present_day += timedelta(days=1)
+        return today
+```
+for 루프를 이용하여 다음과 같이 반복을 할 수 있다.
+```python
+>>> for day in DateRangeIterable(date(2019,1,1), date(2019,1,5)):
+        print(day)
+
+2019-01-01
+2019-01-02
+2019-01-03
+2019-01-04
+```
+### 시퀀스 만들기
+객체에 ```__iter__``` 메소드를 정의하지 않았지만 반복하기를 원하는 경우도 있다. iter()함수는 객체에 ```__iter__```가 정의되어 있지 않으면 ```__getitem__```을 찾고 없으면 TypeError를 발생시킨다.  
+시퀀스는 ```__len__```과 ```__getitem__```을 구현하고 첫 번째 인덱스 0부터 시작하여 포함된 요소를 한 번에 하나씩 차례로 가져올 수 있어야 한다. 즉 ```__getitem__```을 올바르게 구현하고 인덱싱이 가능하도록 주의를 기울여야 한다. 그렇지 않으면 반복이 작동하지 않게 된다.  
+이터러블을 사용하면 메모리를 적게 사용하지만 n번째 요소를 얻기 위한 시간복잡도는 O(n)이며, 시퀀스는 더 많은 메모리가 사용되지만 특정 요소를 가져오기 위한 인덱싱의 시간복잡도는 O(1)에 해당한다.  
+시퀀스는 다음과 같이 코드로 작성을 할 수 있다.
+```python
+class DateRangeSequence:
+    """An range created by wrapping a sequence."""
+
+    def __init__(self, start_date, end_date):
+        self.start_date = start_date
+        self.end_date = end_date
+        self._range = self._create_range()
+
+    def _create_range(self):
+        days = []
+        current_day = self.start_date
+        while current_day < self.end_date:
+            days.append(current_day)
+            current_day += timedelta(days=1)
+        return days
+
+    def __getitem__(self, day_no):
+        return self._range[day_no]
+
+    def __len__(self):
+        return len(self._range)
+```
+## 호출형 객체
+함수처럼 동작하는 객체를 정의하면 매우 편리하다. 매직 메소드 ```__call__```을 사용하면 객체를 일반 함수처럼 호출할 수 있다.  
+```python
+class CallCount:
+
+    def __init__(self):
+        self._counts = defaultdict(int)
+
+    def __call__(self, argument):
+        self._counts[argument] += 1
+        return self._counts[argument]
+```
+```python
+>>> cc = CallCount()
+>>> cc(1)
+1
+>>> cc(2)
+1
+>>> cc(1)
+2
+>>> cc(1)
+3
+>>> cc("something")
+1
+```
