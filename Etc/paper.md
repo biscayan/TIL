@@ -39,6 +39,7 @@ The paper list what I read
 - Long-short Term Memory
 - Measures of Native and Non-Native Rhythm in a Quantity Language
 - MLLR-based Accent Model Adaptation without Accented Data
+- Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
 - On the distinction between 'stress-timed' and 'syllable-timed' languages
