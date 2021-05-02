@@ -2,7 +2,7 @@
 [모두의 네트워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505030&orderClick=LAG&Kc=)
 ## Contents
 - [x] Chapter 1. 네트워크 첫걸음  
-- [ ] Chapter 2. 네트워크 기본규칙  
+- [x] Chapter 2. 네트워크 기본규칙  
 - [ ] Chapter 3. 물리계층 : 데이터를 전기 신호로 변환하기  
 - [ ] Chapter 4. 데이터 링크 계층 : 랜에서 데이터 전송하기  
 - [ ] Chapter 5. 네트워크 계층 : 목적지에 데이터 전달하기  

@@ -4,12 +4,17 @@ Today I Learned.
 공부한 것을 기록으로 남겨라.✍
 ## Categories
 ### Programming
-- [Common](https://github.com/biscayan/TIL/tree/master/Programming/Common)
-- [CPP](https://github.com/biscayan/TIL/tree/master/Programming/CPP)
-- [Linux](https://github.com/biscayan/TIL/tree/master/Programming/Linux)
-- [Python]
+- [Algorithm problems](https://github.com/biscayan/Python_algorithm)
+- [CPP](https://github.com/biscayan/CPP_study)
+- [Python](https://github.com/biscayan/Python_study)
 - [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
+### ML_DL
+### CS
+- Database  
+- Network  
+- OS  
 ### Math
 - [Linear algebra](https://github.com/biscayan/TIL/tree/master/Math/Linear%20algebra)
+### Linux
 ### Etc
 - [paper](https://github.com/biscayan/TIL/blob/master/Etc/paper.md)
