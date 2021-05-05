@@ -7,7 +7,7 @@ Today I Learned.
 - [Algorithm problems](https://github.com/biscayan/Python_algorithm)
 - [CPP](https://github.com/biscayan/CPP_study)
 - [Python](https://github.com/biscayan/Python_study)
-- [Pragmatic_programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
+- [Pragmatic programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
 ### ML_DL
 ### CS
 - Database  
