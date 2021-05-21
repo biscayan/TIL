@@ -51,6 +51,7 @@ The paper list what I read
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech rhythm across turn transitions in cross-cultural talk-in-interaction
+- Tacotron: Towards end-to-end speech synthesis
 - The Environment for Open-syllable Lengthening in Middle English
 - The Historical Evolution of English Pronunciation
 - The Kaldi Speech Recognition Toolkit
