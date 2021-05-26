@@ -25,6 +25,7 @@ The paper list what I read
 - Domain Adversarial Training for Accented Speech Recognition
 - Domain-Adversarial Training of Neural Networks
 - Durational Variability in Speech and the Rhythm Class Hypothesis
+- Emotional Speech Synthesis With Rich And Granularized Control
 - End-to-end Accented Speech Recognition
 - ESPnet: End-to-end Speech Processing Toolkit
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
