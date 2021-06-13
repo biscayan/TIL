@@ -2,8 +2,8 @@
 [데이터베이스 개론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644316&orderClick=LAG&Kc=)
 
 ## Contents
-- [ ] Chapter 1. 데이터베이스 기본 개념  
-- [ ] Chapter 2. 데이터베이스 관리 시스템   
+- [x] Chapter 1. 데이터베이스 기본 개념  
+- [x] Chapter 2. 데이터베이스 관리 시스템   
 - [ ] Chapter 3. 데이터베이스 시스템  
 - [ ] Chapter 4. 데이터 모델링  
 - [ ] Chapter 5. 관계 데이터 모델  
