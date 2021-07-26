@@ -6,7 +6,7 @@
 - [x] Chapter 2. 데이터베이스 관리 시스템   
 - [x] Chapter 3. 데이터베이스 시스템  
 - [x] Chapter 4. 데이터 모델링  
-- [ ] Chapter 5. 관계 데이터 모델  
+- [x] Chapter 5. 관계 데이터 모델  
 - [ ] Chapter 6. 관계 데이터 연산  
 - [ ] Chapter 7. 데이터베이스 언어 SQL  
 - [ ] Chapter 8. 데이터베이스 설계  
