@@ -1,4 +1,4 @@
-# 자주 사용하는 VisualStudioCode (vscode) 단축키 모음
+# 자주 사용하는 Visual Studio Code (vscode) 단축키 모음
 [visual studio code tutorial](https://demun.github.io/vscode-tutorial/shortcuts/)  
 ## 기본 편집
 - ctrl + enter : 아래에 행 삽입  
@@ -36,6 +36,10 @@
 - ctrl + shift + c : 새 프롬프트 열기  
 - ctrl + shift + v : 마크다운 미리보기 토글  
 - ctrl + ` : 통합 터미널 토글  
-## 디버그
-- f5 : 디버그 시작  
-- ctrl + f5 : 디버그 없이 시작  
+## 디버깅
+- f5 : 디버깅 시작  
+- ctrl + f5 : 디버깅 없이 시작  
+- f9 : breakpoint 설정
+- f10 : step over
+- f11 : step into
+- shift + f11 : step out
