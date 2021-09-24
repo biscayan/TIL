@@ -20,6 +20,7 @@ The paper list what I read
 - Control Methods Used in a Study of the Vowels
 - Correlates of linguistic rhythm in the speech signal
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
+- Deep Learning Methods in Speaker Recognition: A Review
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
