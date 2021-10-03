@@ -50,6 +50,7 @@ The paper list what I read
 - Relations between language rhythm and speech rate
 - Stress-timing and Syllable-timing Reanalyzed
 - Sound Change And Syllable Structure in Germanic Phonology
+- Speaker Recognition Based on Deep Learning: An Overview
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech rhythm across turn transitions in cross-cultural talk-in-interaction
