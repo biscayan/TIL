@@ -47,6 +47,7 @@ The paper list what I read
 - A review of deep learning based speech synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - Tacotron: Towards end-to-end speech synthesis
+- Wavenet: A Generative Model for Raw Audio
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
