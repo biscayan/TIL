@@ -5,6 +5,7 @@ The paper list what I read
 - An overview of Multi-Task Learning in Deep Neural Networks
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - Domain-Adversarial Training of Neural Networks
+- Generative Adversarial Nets
 - Long-short Term Memory
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 ### Speech Recognition
