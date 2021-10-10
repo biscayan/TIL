@@ -3,11 +3,9 @@ The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
 - An overview of Multi-Task Learning in Deep Neural Networks
-- Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - Domain-Adversarial Training of Neural Networks
 - Generative Adversarial Nets
 - Long-short Term Memory
-- Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - Adaptation Methods for Non-native Speech
@@ -20,6 +18,7 @@ The paper list what I read
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Common Voice: A Massively-Multilingual Speech Corpus
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
+- Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Learning Methods in Speaker Recognition: A Review
@@ -44,11 +43,14 @@ The paper list what I read
 - The Kaldi Speech Recognition Toolkit
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
+- Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - Tacotron: Towards end-to-end speech synthesis
 - Wavenet: A Generative Model for Raw Audio
+### Natural Language Processing
+- Attention is all you need
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
