@@ -50,6 +50,7 @@ The paper list what I read
 - Tacotron: Towards end-to-end speech synthesis
 - Wavenet: A Generative Model for Raw Audio
 ### Natural Language Processing
+- An algorithm for suffix stripping
 - Attention is all you need
 ### Linguistics
 - Accent as a Social Symbol
