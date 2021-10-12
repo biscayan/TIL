@@ -39,6 +39,7 @@ The paper list what I read
 - Multi-task Learning for Speech Recognition: An overview
 - Speaker Recognition Based on Deep Learning: An Overview
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
+- Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - The Kaldi Speech Recognition Toolkit
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
