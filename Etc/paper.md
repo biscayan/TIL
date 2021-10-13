@@ -27,6 +27,7 @@ The paper list what I read
 - End-to-end Accented Speech Recognition
 - ESPnet: End-to-end Speech Processing Toolkit
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
+- Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Introducing Attribute Features to Foreign Accent Recognition
 - Language identification with suprasegmental cues: A study based on speech resynthesis
