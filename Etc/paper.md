@@ -42,6 +42,7 @@ The paper list what I read
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
+- Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
 - The Kaldi Speech Recognition Toolkit
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
