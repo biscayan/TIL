@@ -51,6 +51,7 @@ The paper list what I read
 - A review of deep learning based speech synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - Tacotron: Towards end-to-end speech synthesis
+- Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
 ### Natural Language Processing
 - An algorithm for suffix stripping
