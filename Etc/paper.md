@@ -22,6 +22,7 @@ The paper list what I read
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Learning Methods in Speaker Recognition: A Review
+- Deep speaker: an end-to-end neural speaker embedding system
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
 - End-to-end Accented Speech Recognition
