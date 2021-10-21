@@ -31,6 +31,7 @@ The paper list what I read
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Introducing Attribute Features to Foreign Accent Recognition
+- Joint CTC-attention based end-to-end speech recognition using multi-task learning
 - Language identification with suprasegmental cues: A study based on speech resynthesis
 - Leveraging Native Language Information for Improved Accented Speech Recognition
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
