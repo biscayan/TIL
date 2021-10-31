@@ -58,6 +58,8 @@ The paper list what I read
 ### Natural Language Processing
 - An algorithm for suffix stripping
 - Attention is all you need
+### Computer vision
+- U-Net: Convolutional Networks for Biomedical Image Segmentation
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
