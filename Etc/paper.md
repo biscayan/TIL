@@ -40,6 +40,7 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
+- SEGAN: Speech Enhancement Generative Adversarial Network
 - Speaker Recognition Based on Deep Learning: An Overview
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Augmentation using Wavenet in Speech Recognition
