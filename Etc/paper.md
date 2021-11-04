@@ -30,6 +30,7 @@ The paper list what I read
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
+- Improved Speech Enhancement with the Wave-U-Net
 - Introducing Attribute Features to Foreign Accent Recognition
 - Joint CTC-attention based end-to-end speech recognition using multi-task learning
 - Language identification with suprasegmental cues: A study based on speech resynthesis
@@ -52,6 +53,7 @@ The paper list what I read
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
+- Adversarial Audio Synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - Tacotron: Towards end-to-end speech synthesis
 - Waveglow: A flow-based generative network for speech synthesis
