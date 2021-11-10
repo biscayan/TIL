@@ -64,6 +64,7 @@ The paper list what I read
 - Domain-Adversarial Training of Neural Networks
 - Generative Adversarial Nets
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
+- Very deep convolutional networks for large-scale image recognition
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
