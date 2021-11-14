@@ -3,6 +3,8 @@ The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
 - An overview of Multi-Task Learning in Deep Neural Networks
+- Domain-Adversarial Training of Neural Networks
+- Generative Adversarial Nets
 - Long-short Term Memory
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
@@ -61,8 +63,7 @@ The paper list what I read
 - Attention is all you need
 ### Computer vision
 - Deep residual learning for image recognition
-- Domain-Adversarial Training of Neural Networks
-- Generative Adversarial Nets
+- EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 - Very deep convolutional networks for large-scale image recognition
 ### Linguistics
