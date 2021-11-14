@@ -8,13 +8,13 @@ Today I Learned.
 - [CPP](https://github.com/biscayan/CPP_study)
 - [Python](https://github.com/biscayan/Python_study)
 - [Pragmatic programmer](https://github.com/biscayan/TIL/tree/master/Programming/Pragmatic_programmer)
-### ML_DL
 ### CS
-- Database  
+- [Database](https://github.com/biscayan/TIL/tree/master/CS/Database)  
 - Network  
 - OS  
 ### Math
 - [Linear algebra](https://github.com/biscayan/TIL/tree/master/Math/Linear%20algebra)
+### Research
+- [Paper](https://github.com/biscayan/TIL/blob/master/Research/paper.md)
 ### Linux
-### Etc
-- [paper](https://github.com/biscayan/TIL/blob/master/Etc/paper.md)
+- [Linux](https://github.com/biscayan/TIL/tree/master/Linux)
