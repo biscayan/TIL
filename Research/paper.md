@@ -66,6 +66,8 @@ The paper list what I read
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 - Very deep convolutional networks for large-scale image recognition
+### Reinforcement Learning
+- Neural architecture search with reinforcement learning
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
