@@ -3,6 +3,7 @@ The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
 - An overview of Multi-Task Learning in Deep Neural Networks
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Domain-Adversarial Training of Neural Networks
 - Generative Adversarial Nets
 - Long-short Term Memory
