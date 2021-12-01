@@ -70,6 +70,7 @@ The paper list what I read
 - Rich feature hierarchies for accurate object detection and semantic segmentation
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 - Very deep convolutional networks for large-scale image recognition
+- You Only Look Once: Unified, Real-Time Object detection
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
 ### Linguistics
