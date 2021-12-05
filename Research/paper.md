@@ -19,6 +19,7 @@ The paper list what I read
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Common Voice: A Massively-Multilingual Speech Corpus
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
+- Conformer: Convolution-augmented Transformer for Speech Recognition
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
@@ -65,6 +66,7 @@ The paper list what I read
 - An algorithm for suffix stripping
 - Attention is all you need
 ### Computer vision
+- Albumentations: fast and flexible image augmentations
 - Deep residual learning for image recognition
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
