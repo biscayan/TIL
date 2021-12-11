@@ -22,6 +22,7 @@ The paper list what I read
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+- ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Learning Methods in Speaker Recognition: A Review
