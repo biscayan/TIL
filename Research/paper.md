@@ -2,12 +2,14 @@
 The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
+- A Survey on Deep Transfer Learning
 - An overview of Multi-Task Learning in Deep Neural Networks
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Distilling the Knowledge in a Neural Network
 - Domain-Adversarial Training of Neural Networks
 - Generative Adversarial Nets
 - Long-short Term Memory
+- Representation Learning with Contrastive Predictive Coding
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - Adaptation Methods for Non-native Speech
