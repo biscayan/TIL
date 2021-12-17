@@ -58,6 +58,7 @@ The paper list what I read
 - The Kaldi Speech Recognition Toolkit
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
+- vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - wav2vec: Unsupervised Pre-training for Speech Recognition
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 ### Speech Synthesis
