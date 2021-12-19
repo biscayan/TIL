@@ -27,8 +27,6 @@ The paper list what I read
 - ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
-- Deep Learning Methods in Speaker Recognition: A Review
-- Deep speaker: an end-to-end neural speaker embedding system
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
 - End-to-end Accented Speech Recognition
@@ -36,7 +34,6 @@ The paper list what I read
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
-- Improved Speech Enhancement with the Wave-U-Net
 - Introducing Attribute Features to Foreign Accent Recognition
 - Jasper: An End-to-End Convolutional Neural Acoustic Model
 - Joint CTC-attention based end-to-end speech recognition using multi-task learning
@@ -48,20 +45,25 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
-- SEGAN: Speech Enhancement Generative Adversarial Network
 - Some Commonly Used Speech Feature Extraction Algorithms
-- Speaker Recognition Based on Deep Learning: An Overview
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
 - The Kaldi Speech Recognition Toolkit
-- Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - wav2vec: Unsupervised Pre-training for Speech Recognition
 - wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
+### Speaker Recognition
+- Deep Learning Methods in Speaker Recognition: A Review
+- Deep speaker: an end-to-end neural speaker embedding system
+- Speaker Recognition Based on Deep Learning: An Overview
+- Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
+### Speech Enhancement
+- Improved Speech Enhancement with the Wave-U-Net
+- SEGAN: Speech Enhancement Generative Adversarial Network
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
