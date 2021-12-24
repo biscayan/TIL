@@ -75,6 +75,7 @@ The paper list what I read
 ### Natural Language Processing
 - An algorithm for suffix stripping
 - Attention is all you need
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
 - Deep residual learning for image recognition
