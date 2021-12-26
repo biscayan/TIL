@@ -76,6 +76,7 @@ The paper list what I read
 - An algorithm for suffix stripping
 - Attention is all you need
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- Language Models are Unsupervised Multitask Learners
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
 - Deep residual learning for image recognition
