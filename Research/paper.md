@@ -77,6 +77,7 @@ The paper list what I read
 ### Natural Language Processing
 - An algorithm for suffix stripping
 - Attention is all you need
+- BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Language Models are Unsupervised Multitask Learners
 ### Computer vision
