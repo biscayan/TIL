@@ -46,6 +46,7 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
+- PYKALDI: A Python Wrapper for Kaldi
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
