@@ -14,6 +14,7 @@
 - [x] [프로그래머, 수학의 시대](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997924509&orderClick=LAG&Kc=) (2021년 5월 완료)
 - [x] [모두의 네트워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505030&orderClick=LAG&Kc=) (2021년 5월 완료)
 - [x] [그림으로 배우는 클라우드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931463149&orderClick=LAG&Kc=) (2021년 11월 완료)
+- [x] [데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665230&orderClick=LEa&Kc=) (2021년 12월 완료)
 - [ ] [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243077&orderClick=LAG&Kc=)
 - [ ] [포르잔 C++ 바이블](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156645030&orderClick=LAG&Kc=)
 - [ ] [파이썬 코딩의 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165213190&orderClick=LET&Kc=)
@@ -24,5 +25,4 @@
 - [ ] [커리어 스킬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160507621&orderClick=LAG&Kc=)
 - [ ] [단단한 머신러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621989&orderClick=LAG&Kc=)
 - [ ] [신경망과 심층학습](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621668&orderClick=LAG&Kc=)
-- [ ] [데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665230&orderClick=LEa&Kc=)
 - [ ] [데이터베이스 개론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644316&orderClick=LAG&Kc=)

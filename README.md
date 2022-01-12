@@ -15,6 +15,8 @@ Today I Learned.
 ### Math
 - [Linear algebra](https://github.com/biscayan/TIL/tree/master/Math/Linear%20algebra)
 ### Research
+- [Book](https://github.com/biscayan/TIL/blob/master/Research/book.md)
+- [Lecture](https://github.com/biscayan/TIL/blob/master/Research/lecture.md)
 - [Paper](https://github.com/biscayan/TIL/blob/master/Research/paper.md)
 ### Linux
 - [Linux](https://github.com/biscayan/TIL/tree/master/Linux)
