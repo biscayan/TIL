@@ -46,7 +46,8 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
-- PYKALDI: A Python Wrapper for Kaldi
+- PyKaldi: A Python Wrapper for Kaldi
+- PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
@@ -54,6 +55,7 @@ The paper list what I read
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
 - The Kaldi Speech Recognition Toolkit
+- The Pytorch-kaldi Speech Recognition Toolkit
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - wav2vec: Unsupervised Pre-training for Speech Recognition
