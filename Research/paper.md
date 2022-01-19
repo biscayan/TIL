@@ -53,6 +53,7 @@ The paper list what I read
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
 - Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
+- Speech recognition with weighted finite-state transducers
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
 - The Kaldi Speech Recognition Toolkit
 - The Pytorch-kaldi Speech Recognition Toolkit
