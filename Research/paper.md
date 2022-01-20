@@ -83,6 +83,7 @@ The paper list what I read
 - Attention is all you need
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- Big Bird: Transformers for Longer Sequences
 - Language Models are Unsupervised Multitask Learners
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
