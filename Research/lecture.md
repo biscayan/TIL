@@ -15,3 +15,4 @@
 - [ ] [SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지](https://www.inflearn.com/course/SQL-DB-MYSQL-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/dashboard) 
 - [ ] [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci)
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
+- [ ] [리눅스 쉘 스크립트](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%89%98/dashboard)
