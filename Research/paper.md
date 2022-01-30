@@ -84,6 +84,7 @@ The paper list what I read
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Big Bird: Transformers for Longer Sequences
+- Electra: Pre-training text encoders as discriminators rather than generators
 - Language Models are Unsupervised Multitask Learners
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
