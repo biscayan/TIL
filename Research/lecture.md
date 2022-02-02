@@ -12,7 +12,7 @@
 - [x] [파이썬 알고리즘 문제풀이](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard) (2021년 2월 완료)  
 - [x] [비전공자를 위한 개발자 취업 올인원 가이드 취업편](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EC%B7%A8%EC%97%85%ED%8E%B8/dashboard) (2021년 5월 완료)
 - [x] [홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus) (2021년 12월 완료)
+- [x] [리눅스 쉘 스크립트](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%89%98/dashboard) (2022년 1월 완료)
 - [ ] [SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지](https://www.inflearn.com/course/SQL-DB-MYSQL-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/dashboard) 
 - [ ] [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci)
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
-- [ ] [리눅스 쉘 스크립트](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%89%98/dashboard)

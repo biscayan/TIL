@@ -19,6 +19,8 @@ The paper list what I read
 - Adversarial Training for Multilingual Acoustic Modeling
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
+- A time delay neural network architecture for efficient modeling of long temporal contexts
+- Audio Augmentation for Speech Recognition
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Common Voice: A Massively-Multilingual Speech Corpus
