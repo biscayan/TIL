@@ -48,6 +48,7 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
+- Output-Gate Projected Gated Recurrent Unit for Speech Recognition
 - PyKaldi: A Python Wrapper for Kaldi
 - PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
