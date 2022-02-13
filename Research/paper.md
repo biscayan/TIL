@@ -93,6 +93,7 @@ The paper list what I read
 - Language Models are Unsupervised Multitask Learners
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
+- An image is worth 16x16 words: Transformers for image recognition at scale
 - Deep residual learning for image recognition
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
