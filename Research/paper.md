@@ -49,6 +49,7 @@ The paper list what I read
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
+- Purely sequence-trained neural networks for ASR based on lattice-free MMI
 - PyKaldi: A Python Wrapper for Kaldi
 - PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
