@@ -64,6 +64,7 @@ The paper list what I read
 - The Pytorch-kaldi Speech Recognition Toolkit
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+- Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
 - wav2vec: Unsupervised Pre-training for Speech Recognition
 - wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm

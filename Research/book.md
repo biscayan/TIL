@@ -15,7 +15,7 @@
 - [x] [모두의 네트워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505030&orderClick=LAG&Kc=) (2021년 5월 완료)
 - [x] [그림으로 배우는 클라우드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931463149&orderClick=LAG&Kc=) (2021년 11월 완료)
 - [x] [데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665230&orderClick=LEa&Kc=) (2021년 12월 완료)
-- [ ] [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243077&orderClick=LAG&Kc=)
+- [x] [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243077&orderClick=LAG&Kc=) (2022년 1월 완료)
 - [ ] [포르잔 C++ 바이블](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156645030&orderClick=LAG&Kc=)
 - [ ] [파이썬 코딩의 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165213190&orderClick=LET&Kc=)
 - [ ] [파이썬 클린코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791161340463)
