@@ -21,3 +21,4 @@
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
 - [ ] [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84#)
 - [ ] [신호와 시스템](https://www.youtube.com/playlist?list=PLSN_PltQeOyi8iF7kS28BvG9MFcpNSXEJ)
+- [ ] [모두를 위한 딥러닝-Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/dashboard)
