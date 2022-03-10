@@ -105,6 +105,7 @@ The paper list what I read
 - You Only Look Once: Unified, Real-Time Object detection
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
+- Playing Atari with Deep Reinforcement Learning
 ### Linguistics
 - Accent as a Social Symbol
 - Calibrating rhythm: First language and second language studies
