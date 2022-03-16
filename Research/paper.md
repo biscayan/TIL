@@ -65,6 +65,7 @@ The paper list what I read
 - The Kaldi Speech Recognition Toolkit
 - The Pytorch-kaldi Speech Recognition Toolkit
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
+- Vocal Tract Length Perturbation (VTLP) improves speech recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
 - wav2vec: Unsupervised Pre-training for Speech Recognition
