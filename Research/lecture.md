@@ -22,3 +22,6 @@
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
 - [ ] [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84#)
 - [ ] [신호와 시스템](https://www.youtube.com/playlist?list=PLSN_PltQeOyi8iF7kS28BvG9MFcpNSXEJ)
+- [ ] [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/programs/kmooc-coursera-learning-hub-rreuo/browse?authProvider=kmooc&productId=UTg2EeldEeq3QQ5dqWzZRQ&productType=s12n&query=mlops&showMiniModal=true&utm_campaign=programId%3AL_cJSmM4EeyWDgo3Lh-ANQ%3Bday%3A1642374000000%3Binvitation&utm_medium=email&utm_source=other)
+- [ ] [선형대수학](https://ko.khanacademy.org/math/linear-algebra)
+- [ ] [머신러닝 엔지니어 실무](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4)
