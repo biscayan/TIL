@@ -37,6 +37,7 @@ The paper list what I read
 - ESPnet: End-to-end Speech Processing Toolkit
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
+- Full-duplex Speech-to-text System for Estonian
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Introducing Attribute Features to Foreign Accent Recognition
 - Jasper: An End-to-End Convolutional Neural Acoustic Model
