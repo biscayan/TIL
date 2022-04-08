@@ -10,6 +10,7 @@ The paper list what I read
 - Generative Adversarial Nets
 - Layer Normalization
 - Long-short Term Memory
+- Overcoming catastrophic forgetting in neural networks
 - Representation Learning with Contrastive Predictive Coding
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
