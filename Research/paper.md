@@ -46,6 +46,7 @@ The paper list what I read
 - Language identification with suprasegmental cues: A study based on speech resynthesis
 - Leveraging Native Language Information for Improved Accented Speech Recognition
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
+- Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
 - MLLR-based Accent Model Adaptation without Accented Data
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
