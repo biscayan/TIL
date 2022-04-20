@@ -17,6 +17,7 @@
 - [x] [Semirings and WFST](https://www.youtube.com/playlist?list=PLxbPHSSMPBeicXAHVfyFvGfCywRCq39Mp) (2022년 2월 완료)
 - [x] [운영체제 (CPA310)](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN) (2022년 2월 완료)
 - [x] [모두를 위한 딥러닝-Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/dashboard) (2022년 3월 완료)
+- [x] [머신러닝 엔지니어 실무](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4) (2022년 4월 완료)
 - [ ] [SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지](https://www.inflearn.com/course/SQL-DB-MYSQL-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/dashboard) 
 - [ ] [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci)
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
@@ -24,4 +25,3 @@
 - [ ] [신호와 시스템](https://www.youtube.com/playlist?list=PLSN_PltQeOyi8iF7kS28BvG9MFcpNSXEJ)
 - [ ] [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/programs/kmooc-coursera-learning-hub-rreuo/browse?authProvider=kmooc&productId=UTg2EeldEeq3QQ5dqWzZRQ&productType=s12n&query=mlops&showMiniModal=true&utm_campaign=programId%3AL_cJSmM4EeyWDgo3Lh-ANQ%3Bday%3A1642374000000%3Binvitation&utm_medium=email&utm_source=other)
 - [ ] [선형대수학](https://ko.khanacademy.org/math/linear-algebra)
-- [ ] [머신러닝 엔지니어 실무](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4)
