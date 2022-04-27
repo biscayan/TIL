@@ -11,6 +11,7 @@ The paper list what I read
 - Layer Normalization
 - Long-short Term Memory
 - Overcoming catastrophic forgetting in neural networks
+- Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
 - Representation Learning with Contrastive Predictive Coding
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
