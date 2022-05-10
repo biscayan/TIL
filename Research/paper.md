@@ -42,6 +42,7 @@ The paper list what I read
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Full-duplex Speech-to-text System for Estonian
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
+- Improved Noisy Student Training for Automatic Speech Recognition
 - Introducing Attribute Features to Foreign Accent Recognition
 - Jasper: An End-to-End Convolutional Neural Acoustic Model
 - Joint CTC-attention based end-to-end speech recognition using multi-task learning
