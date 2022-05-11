@@ -14,6 +14,7 @@ The paper list what I read
 - Overcoming catastrophic forgetting in neural networks
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
 - Representation Learning with Contrastive Predictive Coding
+- Unsupervised Data Augmentation for Consistency Training
 ### Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - Adaptation Methods for Non-native Speech
