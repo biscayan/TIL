@@ -27,6 +27,7 @@ The paper list what I read
 - Audio Augmentation for Speech Recognition
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
+- ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
 - Common Voice: A Massively-Multilingual Speech Corpus
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
