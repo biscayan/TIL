@@ -51,6 +51,7 @@ The paper list what I read
 - Joint CTC-attention based end-to-end speech recognition using multi-task learning
 - Language identification with suprasegmental cues: A study based on speech resynthesis
 - Leveraging Native Language Information for Improved Accented Speech Recognition
+- Libri-Light: A Benchmark for ASR with Limited or No Supervision
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
