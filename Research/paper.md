@@ -81,6 +81,7 @@ The paper list what I read
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
+- Wav2Letter++: A Fast Open-source Speech Recognition System
 - wav2vec: Unsupervised Pre-training for Speech Recognition
 - wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
