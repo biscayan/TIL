@@ -7,6 +7,7 @@ The paper list what I read
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Distilling the Knowledge in a Neural Network
 - Domain-Adversarial Training of Neural Networks
+- Gaussian Error Linear Units (GELUs)
 - Generative Adversarial Nets
 - Layer Normalization
 - Learning with Pseudo-Ensembles
