@@ -22,6 +22,7 @@ The paper list what I read
 - Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
 - Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
 - Adversarial Training for Multilingual Acoustic Modeling
+- An exploration of dropout with LSTMs
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
