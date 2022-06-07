@@ -64,6 +64,7 @@ The paper list what I read
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
+- PyChain: A Fully Parallelized PyTorch Implementation of LF-MMI for End-to-End ASR
 - PyKaldi: A Python Wrapper for Kaldi
 - PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
