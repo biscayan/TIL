@@ -42,6 +42,7 @@ The paper list what I read
 - End-to-end Accented Speech Recognition
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
+- Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
 - ExKaldi-RT: A Real-Time Automatic Speech Recognition Extension Toolkit of Kaldi
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
