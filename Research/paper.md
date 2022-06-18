@@ -115,6 +115,7 @@ The paper list what I read
 - Big Bird: Transformers for Longer Sequences
 - Electra: Pre-training text encoders as discriminators rather than generators
 - Language Models are Unsupervised Multitask Learners
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
 - An image is worth 16x16 words: Transformers for image recognition at scale
