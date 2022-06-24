@@ -77,6 +77,7 @@ The paper list what I read
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech recognition with weighted finite-state transducers
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
+- SpeechBrain: A General-Purpose Speech Toolkit
 - SpeechStew: Simply Mix All Available Speech Recognition Data to Train One Large Neural Network
 - Streaming End-to-end Speech Recognition for Mobile Devices
 - The Kaldi Speech Recognition Toolkit
