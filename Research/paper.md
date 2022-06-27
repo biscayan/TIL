@@ -82,6 +82,7 @@ The paper list what I read
 - Streaming End-to-end Speech Recognition for Mobile Devices
 - The Kaldi Speech Recognition Toolkit
 - The Pytorch-kaldi Speech Recognition Toolkit
+- Towards Online End-to-end Transformer Automatic Speech Recognition
 - Transformer transducer: A streamable speech recognition model with transformer encoders and rnn-t loss
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
