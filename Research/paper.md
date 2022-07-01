@@ -59,6 +59,7 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
+- MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
 - MLLR-based Accent Model Adaptation without Accented Data
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
