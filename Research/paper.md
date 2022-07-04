@@ -5,6 +5,7 @@ The paper list what I read
 - A Survey on Deep Transfer Learning
 - An overview of Multi-Task Learning in Deep Neural Networks
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+- Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
 - Distilling the Knowledge in a Neural Network
 - Domain-Adversarial Training of Neural Networks
 - Gaussian Error Linear Units (GELUs)
