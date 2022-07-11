@@ -14,6 +14,7 @@ The paper list what I read
 - Learning with Pseudo-Ensembles
 - Long-short Term Memory
 - Overcoming catastrophic forgetting in neural networks
+- Progressive Neural Networks
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
 - Representation Learning with Contrastive Predictive Coding
 - Searching for Activation Functions
