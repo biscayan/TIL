@@ -10,6 +10,7 @@ The paper list what I read
 - Domain-Adversarial Training of Neural Networks
 - Gaussian Error Linear Units (GELUs)
 - Generative Adversarial Nets
+- Group Normalization
 - Layer Normalization
 - Learning with Pseudo-Ensembles
 - Long-short Term Memory
