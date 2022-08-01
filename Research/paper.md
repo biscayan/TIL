@@ -85,6 +85,7 @@ The paper list what I read
 - SpeechBrain: A General-Purpose Speech Toolkit
 - SpeechStew: Simply Mix All Available Speech Recognition Data to Train One Large Neural Network
 - Streaming End-to-end Speech Recognition for Mobile Devices
+- Streaming Transformer Asr With Blockwise Synchronous Beam Search
 - The Kaldi Speech Recognition Toolkit
 - The Pytorch-kaldi Speech Recognition Toolkit
 - Towards Online End-to-end Transformer Automatic Speech Recognition
