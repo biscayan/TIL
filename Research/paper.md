@@ -78,6 +78,7 @@ The paper list what I read
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
+- Specaugment on Large Scale Datasets
 - Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech recognition with weighted finite-state transducers
