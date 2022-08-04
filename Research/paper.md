@@ -14,6 +14,7 @@ The paper list what I read
 - Layer Normalization
 - Learning with Pseudo-Ensembles
 - Long-short Term Memory
+- Monotonic Chunkwise Attention
 - Overcoming catastrophic forgetting in neural networks
 - Progressive Neural Networks
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
