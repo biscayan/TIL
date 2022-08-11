@@ -53,6 +53,7 @@ The paper list what I read
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Full-duplex Speech-to-text System for Estonian
+- Hyperparameter experiments on end-to-end automatic speech recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Improved Noisy Student Training for Automatic Speech Recognition
 - Introducing Attribute Features to Foreign Accent Recognition
