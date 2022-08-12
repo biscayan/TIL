@@ -41,6 +41,7 @@ The paper list what I read
 - Conformer: Convolution-augmented Transformer for Speech Recognition
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context
+- Continual Learning in Automatic Speech Recognition
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
