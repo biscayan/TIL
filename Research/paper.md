@@ -91,6 +91,7 @@ The paper list what I read
 - SpeechStew: Simply Mix All Available Speech Recognition Data to Train One Large Neural Network
 - Streaming End-to-end Speech Recognition for Mobile Devices
 - Streaming Transformer Asr With Blockwise Synchronous Beam Search
+- The 2020 ESPnet Update: New Features, Broadened Applications, Performance Improvements, and Future Plans
 - The Kaldi Speech Recognition Toolkit
 - The Pytorch-kaldi Speech Recognition Toolkit
 - Towards Online End-to-end Transformer Automatic Speech Recognition
