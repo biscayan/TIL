@@ -79,6 +79,7 @@ The paper list what I read
 - PyKaldi: A Python Wrapper for Kaldi
 - PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
+- Recent Developments on Espnet Toolkit Boosted By Conformer
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
