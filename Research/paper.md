@@ -42,6 +42,7 @@ The paper list what I read
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context
 - Continual Learning in Automatic Speech Recognition
+- Continual Learning Using Lattice-Free MMI for Speech Recognition
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - CTC-Segmentation of Large Corpora for German End-to-end Speech Recognition
 - Data Augmentation Improves Recognition of Foreign Accented Speech
