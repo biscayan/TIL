@@ -114,6 +114,7 @@ The paper list what I read
 - Speaker Recognition Based on Deep Learning: An Overview
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 ### Speech Enhancement
+- A Fully Convolutional Neural Network for Speech Enhancement
 - Improved Speech Enhancement with the Wave-U-Net
 - SEGAN: Speech Enhancement Generative Adversarial Network
 ### Speech Synthesis
