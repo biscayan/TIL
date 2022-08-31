@@ -58,6 +58,7 @@ The paper list what I read
 - Full-duplex Speech-to-text System for Estonian
 - Hyperparameter experiments on end-to-end automatic speech recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
+- Improved end-of-query detection for streaming speech recognition
 - Improved Noisy Student Training for Automatic Speech Recognition
 - Introducing Attribute Features to Foreign Accent Recognition
 - Jasper: An End-to-End Convolutional Neural Acoustic Model
