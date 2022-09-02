@@ -13,6 +13,7 @@ The paper list what I read
 - Group Normalization
 - Layer Normalization
 - Learning with Pseudo-Ensembles
+- Learning without Forgetting
 - Long-short Term Memory
 - Monotonic Chunkwise Attention
 - Overcoming catastrophic forgetting in neural networks
