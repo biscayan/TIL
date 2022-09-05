@@ -135,6 +135,7 @@ The paper list what I read
 - Big Bird: Transformers for Longer Sequences
 - Electra: Pre-training text encoders as discriminators rather than generators
 - Language Models are Unsupervised Multitask Learners
+- Neural Machine Translation of Rare Words with Subword Units
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 ### Computer vision
