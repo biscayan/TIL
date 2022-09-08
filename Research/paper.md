@@ -73,6 +73,7 @@ The paper list what I read
 - Listen, Attend and Spell
 - MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
 - MLLR-based Accent Model Adaptation without Accented Data
+- Montreal Forced Aligner: trainable text-speech alignment using Kaldi
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
