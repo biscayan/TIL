@@ -25,6 +25,7 @@ The paper list what I read
 ### Speech Recognition
 - A Comparative Study on Transformer vs RNN in Speech Applications
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
+- A pitch extraction algorithm tuned for automatic speech recognition
 - Adaptation Methods for Non-native Speech
 - Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
 - Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
