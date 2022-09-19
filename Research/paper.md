@@ -47,6 +47,7 @@ The paper list what I read
 - Continual Learning Using Lattice-Free MMI for Speech Recognition
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - CTC-Segmentation of Large Corpora for German End-to-end Speech Recognition
+- Data Augmentation for Deep Neural Network Acoustic Modeling
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
