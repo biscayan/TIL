@@ -74,6 +74,7 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
+- Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict
 - MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
 - MLLR-based Accent Model Adaptation without Accented Data
 - Montreal Forced Aligner: trainable text-speech alignment using Kaldi
