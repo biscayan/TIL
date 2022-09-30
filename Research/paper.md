@@ -75,6 +75,7 @@ The paper list what I read
 - Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
 - Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict
+- Memory-Efficient Training of RNN-Transducer with Sampled Softmax
 - MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
 - MLLR-based Accent Model Adaptation without Accented Data
 - Montreal Forced Aligner: trainable text-speech alignment using Kaldi
