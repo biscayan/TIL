@@ -142,6 +142,7 @@ The paper list what I read
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Big Bird: Transformers for Longer Sequences
 - Electra: Pre-training text encoders as discriminators rather than generators
+- FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling
 - Language Modeling with Deep Transformers
 - Language Models are Unsupervised Multitask Learners
 - Neural Machine Translation of Rare Words with Subword Units
