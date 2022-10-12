@@ -100,6 +100,7 @@ The paper list what I read
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
 - SpeechBrain: A General-Purpose Speech Toolkit
 - SpeechStew: Simply Mix All Available Speech Recognition Data to Train One Large Neural Network
+- Streaming Automatic Speech Recognition with the Transformer Models
 - Streaming End-to-end Speech Recognition for Mobile Devices
 - Streaming Transformer Asr With Blockwise Synchronous Beam Search
 - The 2020 ESPnet Update: New Features, Broadened Applications, Performance Improvements, and Future Plans
