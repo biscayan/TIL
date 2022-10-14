@@ -148,6 +148,7 @@ The paper list what I read
 - Language Models are Unsupervised Multitask Learners
 - Neural Machine Translation of Rare Words with Subword Units
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
+- Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
