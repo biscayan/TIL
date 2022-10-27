@@ -128,6 +128,7 @@ The paper list what I read
 ### Speech Enhancement
 - A Fully Convolutional Neural Network for Speech Enhancement
 - Improved Speech Enhancement with the Wave-U-Net
+- Real Time Speech Enhancement in the Waveform Domain
 - SEGAN: Speech Enhancement Generative Adversarial Network
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
