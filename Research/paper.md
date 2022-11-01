@@ -128,6 +128,7 @@ The paper list what I read
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 ### Speech Enhancement
 - A Fully Convolutional Neural Network for Speech Enhancement
+- Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression
 - Improved Speech Enhancement with the Wave-U-Net
 - Real Time Speech Enhancement in the Waveform Domain
 - SEGAN: Speech Enhancement Generative Adversarial Network
