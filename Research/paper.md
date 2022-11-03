@@ -58,6 +58,7 @@ The paper list what I read
 - ExKaldi-RT: A Real-Time Automatic Speech Recognition Extension Toolkit of Kaldi
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
+- FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ
 - Generalizing RNN-Transducer to Out-Domain Audio via Sparse Self-Attention Layers
 - Full-duplex Speech-to-text System for Estonian
 - Hyperparameter experiments on end-to-end automatic speech recognition
