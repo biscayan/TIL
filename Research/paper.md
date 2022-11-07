@@ -152,6 +152,7 @@ The paper list what I read
 - FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling
 - Language Modeling with Deep Transformers
 - Language Models are Unsupervised Multitask Learners
+- Longformer: The Long-Document Transformer
 - Neural Machine Translation of Rare Words with Subword Units
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
