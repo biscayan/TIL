@@ -51,6 +51,7 @@ The paper list what I read
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
+- Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
 - End-to-end Accented Speech Recognition
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
