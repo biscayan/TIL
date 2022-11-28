@@ -62,6 +62,7 @@ The paper list what I read
 - FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ
 - Generalizing RNN-Transducer to Out-Domain Audio via Sparse Self-Attention Layers
 - Full-duplex Speech-to-text System for Estonian
+- HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
 - Hyperparameter experiments on end-to-end automatic speech recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Improved end-of-query detection for streaming speech recognition
