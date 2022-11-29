@@ -49,6 +49,7 @@ The paper list what I read
 - CTC-Segmentation of Large Corpora for German End-to-end Speech Recognition
 - Data Augmentation for Deep Neural Network Acoustic Modeling
 - Data Augmentation Improves Recognition of Foreign Accented Speech
+- Data Augmenting Contrastive Learning of Speech Representations in the Time Domain
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
 - Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
