@@ -137,6 +137,7 @@ The paper list what I read
 - Improved Speech Enhancement with the Wave-U-Net
 - Real Time Speech Enhancement in the Waveform Domain
 - SEGAN: Speech Enhancement Generative Adversarial Network
+- The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, Subjective Testing Framework, and Challenge Resultss
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
