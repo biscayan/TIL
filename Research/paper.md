@@ -69,6 +69,7 @@ The paper list what I read
 - Improved end-of-query detection for streaming speech recognition
 - Improved Noisy Student Training for Automatic Speech Recognition
 - Introducing Attribute Features to Foreign Accent Recognition
+- Iterative Pseudo-Labeling for Speech Recognition
 - Japanese and Korean voice search
 - Jasper: An End-to-End Convolutional Neural Acoustic Model
 - JHU Kaldi system for Arabic MGB-3 ASR challenge using diarization, audio-transcript alignment and transfer learning
