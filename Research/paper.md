@@ -3,6 +3,7 @@ The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
 - A Survey on Deep Transfer Learning
+- Active Learning for Convolutional Neural Networks: A Core-Set Approach
 - An overview of Multi-Task Learning in Deep Neural Networks
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
