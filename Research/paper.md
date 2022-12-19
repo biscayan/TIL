@@ -14,6 +14,7 @@ The paper list what I read
 - Gradient Episodic Memory for Continual Learning
 - Group Normalization
 - Layer Normalization
+- Learning Loss for Active Learning
 - Learning with Pseudo-Ensembles
 - Learning without Forgetting
 - Long-short Term Memory
