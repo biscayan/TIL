@@ -29,6 +29,8 @@ The paper list what I read
 - A Comparative Study on Transformer vs RNN in Speech Applications
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - A pitch extraction algorithm tuned for automatic speech recognition
+- A time delay neural network architecture for efficient modeling of long temporal contexts
+- Active Learning for Speech Recognition: the Power of Gradients
 - Adaptation Methods for Non-native Speech
 - Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
 - Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
@@ -36,7 +38,6 @@ The paper list what I read
 - An exploration of dropout with LSTMs
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
-- A time delay neural network architecture for efficient modeling of long temporal contexts
 - Audio Augmentation for Speech Recognition
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
