@@ -31,6 +31,7 @@ The paper list what I read
 - A pitch extraction algorithm tuned for automatic speech recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
 - Active Learning for Speech Recognition: the Power of Gradients
+- Active Learning for LF-MMI Trained Neural Networks in ASR
 - Adaptation Methods for Non-native Speech
 - Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
 - Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
