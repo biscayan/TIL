@@ -154,6 +154,8 @@ The paper list what I read
 - Tacotron: Towards end-to-end speech synthesis
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
+### Emotion Recognition
+- Multimodal Speech Emotion Recognition Using Audio and Text
 ### Natural Language Processing
 - An algorithm for suffix stripping
 - Attention is all you need
