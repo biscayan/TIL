@@ -60,6 +60,7 @@ The paper list what I read
 - Domain Adversarial Training for Accented Speech Recognition
 - Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
 - End-to-end Accented Speech Recognition
+- End-to-end Speech Recognition Using Lattice-free MMI
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
 - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
