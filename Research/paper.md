@@ -2,6 +2,7 @@
 The paper list what I read
 ## Paper list
 ### Machine Learning & Deep Learning
+- A Comparative Survey of Deep Active Learning
 - A Survey of Deep Active Learning
 - A Survey on Deep Transfer Learning
 - Active Learning for Convolutional Neural Networks: A Core-Set Approach
