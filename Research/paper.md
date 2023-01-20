@@ -158,6 +158,7 @@ The paper list what I read
 - Wavenet: A Generative Model for Raw Audio
 ### Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
+- Multimodal Speech Emotion Recognition and Ambiguity Resolution
 - Multimodal Speech Emotion Recognition Using Audio and Text
 ### Natural Language Processing
 - An algorithm for suffix stripping
