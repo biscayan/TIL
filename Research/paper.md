@@ -160,6 +160,8 @@ The paper list what I read
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
 - Multimodal Speech Emotion Recognition Using Audio and Text
+### Voice Conversion
+- AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 ### Natural Language Processing
 - An algorithm for suffix stripping
 - Attention is all you need
