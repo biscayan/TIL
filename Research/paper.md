@@ -160,6 +160,7 @@ The paper list what I read
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
 - Multimodal Speech Emotion Recognition Using Audio and Text
+- Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
 ### Voice Conversion
 - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 ### Natural Language Processing
