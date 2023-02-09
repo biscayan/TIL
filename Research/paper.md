@@ -29,6 +29,7 @@ The paper list what I read
 - Unsupervised Data Augmentation for Consistency Training
 ### Speech Recognition
 - A Comparative Study on Transformer vs RNN in Speech Applications
+- A Comparison of Sequence-to-Sequence Models for Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - A pitch extraction algorithm tuned for automatic speech recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
