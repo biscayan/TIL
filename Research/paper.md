@@ -164,7 +164,6 @@ The paper list what I read
 - Multimodal Speech Emotion Recognition Using Audio and Text
 - Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
-- Tensor Fusion Network for Multimodal Sentiment Analysis
 ### Voice Conversion
 - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 ### Natural Language Processing
