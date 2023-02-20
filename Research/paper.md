@@ -140,6 +140,7 @@ The paper list what I read
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
 - Speaker Recognition Based on Deep Learning: An Overview
+- Speaker Recognition from Raw Waveform with SincNet
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 ### Speech Enhancement
 - A Fully Convolutional Neural Network for Speech Enhancement
