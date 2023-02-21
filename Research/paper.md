@@ -137,6 +137,7 @@ The paper list what I read
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
 ### Speaker Recognition
+- AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
 - Speaker Recognition Based on Deep Learning: An Overview
