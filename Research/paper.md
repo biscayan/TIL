@@ -140,6 +140,7 @@ The paper list what I read
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
+- Generalized End-to-End Loss for Speaker Verifications
 - In defence of metric learning for speaker recognition
 - RawNet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification
 - Speaker Recognition Based on Deep Learning: An Overview
