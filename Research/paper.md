@@ -187,6 +187,7 @@ The paper list what I read
 - Longformer: The Long-Document Transformer
 - Neural Machine Translation of Rare Words with Subword Units
 - Recent Trends in the Use of Deep Learning Models for Grammar Error Handling
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
