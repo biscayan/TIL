@@ -192,6 +192,7 @@ The paper list what I read
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+- Transformers: State-of-the-Art Natural Language Processing
 ### Computer vision
 - Albumentations: fast and flexible image augmentations
 - An image is worth 16x16 words: Transformers for image recognition at scale
