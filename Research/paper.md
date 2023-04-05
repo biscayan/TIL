@@ -163,6 +163,7 @@ The paper list what I read
 - Adversarial Audio Synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
+- Neural Speech Synthesis with Transformer Network
 - Tacotron: Towards end-to-end speech synthesis
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
