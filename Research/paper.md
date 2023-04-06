@@ -162,6 +162,7 @@ The paper list what I read
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
+- FastSpeech: Fast, Robust and Controllable Text to Speech
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
 - Tacotron: Towards end-to-end speech synthesis
