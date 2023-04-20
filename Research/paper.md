@@ -48,6 +48,7 @@ The paper list what I read
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
 - Common Voice: A Massively-Multilingual Speech Corpus
+- Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
