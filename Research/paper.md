@@ -164,6 +164,7 @@ The paper list what I read
 - Adversarial Audio Synthesis
 - Emotional Speech Synthesis With Rich And Granularized Control
 - FastSpeech: Fast, Robust and Controllable Text to Speech
+- MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
 - Tacotron: Towards end-to-end speech synthesis
