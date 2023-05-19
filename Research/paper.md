@@ -67,6 +67,7 @@ The paper list what I read
 - End-to-end Speech Recognition Using Lattice-free MMI
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
+- ESPnet-ONNX: Bridging a Gap Between Research and Production
 - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
 - ExKaldi-RT: A Real-Time Automatic Speech Recognition Extension Toolkit of Kaldi
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
