@@ -110,6 +110,7 @@ The paper list what I read
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
 - Recent Developments on Espnet Toolkit Boosted By Conformer
 - Robust Speech Recognition via Large-Scale Weak Supervision
+- Run-and-Back Stitch Search: Novel Block Synchronous Decoding For Streaming Encoder-Decoder ASR
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
