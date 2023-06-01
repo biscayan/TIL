@@ -75,6 +75,7 @@ The paper list what I read
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ
+- FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization
 - Generalizing RNN-Transducer to Out-Domain Audio via Sparse Self-Attention Layers
 - Full-duplex Speech-to-text System for Estonian
 - HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
