@@ -200,6 +200,7 @@ The paper list what I read
 - Recent Trends in the Use of Deep Learning Models for Grammar Error Handling
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
+- SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 - Transformers: State-of-the-Art Natural Language Processing
