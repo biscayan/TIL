@@ -173,6 +173,7 @@ The paper list what I read
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
 - Tacotron: Towards end-to-end speech synthesis
+- VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
 ### Emotion Recognition
