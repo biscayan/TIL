@@ -64,6 +64,7 @@ The paper list what I read
 - Data Augmenting Contrastive Learning of Speech Representations in the Time Domain
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Domain Adversarial Training for Accented Speech Recognition
+- E-Branchformer: Branchformer with Enhanced Merging for Speech Recognition
 - E2E Segmentation in a Two-Pass Cascaded Encoder ASR Model
 - E2E Segmenter: Joint Segmenting and Decoding for Long-Form ASR
 - Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
