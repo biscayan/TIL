@@ -107,6 +107,7 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
+- Online Continual Learning of End-to-End Speech Recognition Models
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
