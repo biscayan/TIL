@@ -69,6 +69,7 @@ The paper list what I read
 - E2E Segmenter: Joint Segmenting and Decoding for Long-Form ASR
 - Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
 - End-to-end Accented Speech Recognition
+- End-to-End Automatic Speech Recognition Integrated with CTC-Based Voice Activity Detection
 - End-to-end Speech Recognition Using Lattice-free MMI
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
