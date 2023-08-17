@@ -154,6 +154,7 @@ The paper list what I read
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
+- End-to-End Neural Speaker Diarization with Permutation-Free Objectives
 - End-to-end speaker segmentation for overlap-aware resegmentation
 - Generalized End-to-End Loss for Speaker Verifications
 - Improved RawNet with Feature Map Scaling for Text-independent Speaker Verification using Raw Waveformss
