@@ -68,6 +68,7 @@ The paper list what I read
 - E-Branchformer: Branchformer with Enhanced Merging for Speech Recognition
 - E2E Segmentation in a Two-Pass Cascaded Encoder ASR Model
 - E2E Segmenter: Joint Segmenting and Decoding for Long-Form ASR
+- Efficient conformer: Progressive downsampling and grouped attention for automatic speech recognition
 - Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition
 - End-to-end Accented Speech Recognition
 - End-to-End Automatic Speech Recognition Integrated with CTC-Based Voice Activity Detection
