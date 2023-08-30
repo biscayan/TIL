@@ -201,6 +201,7 @@ The paper list what I read
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Big Bird: Transformers for Longer Sequences
+- BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text
 - Electra: Pre-training text encoders as discriminators rather than generators
 - FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling
 - Language Modeling with Deep Transformers
