@@ -27,6 +27,7 @@ The paper list what I read
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
 - Representation Learning with Contrastive Predictive Coding
 - Searching for Activation Functions
+- SGDR: Stochastic Gradient Descent with Warm Restarts
 - Unsupervised Data Augmentation for Consistency Training
 ### Speech Recognition
 - A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks
