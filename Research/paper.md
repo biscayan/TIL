@@ -29,6 +29,7 @@ The paper list what I read
 - Searching for Activation Functions
 - SGDR: Stochastic Gradient Descent with Warm Restarts
 - Unsupervised Data Augmentation for Consistency Training
+- ZeRO: Memory optimizations Toward Training Trillion Parameter Models
 ### Speech Recognition
 - A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks
 - A Comparative Study on Transformer vs RNN in Speech Applications
