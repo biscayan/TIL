@@ -92,6 +92,7 @@ The paper list what I read
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Improved end-of-query detection for streaming speech recognition
 - Improved Noisy Student Training for Automatic Speech Recognition
+- Intermediate Loss Regularization for CTC-based Speech Recognition
 - Introducing Attribute Features to Foreign Accent Recognition
 - Iterative Pseudo-Labeling for Speech Recognition
 - Japanese and Korean voice search
