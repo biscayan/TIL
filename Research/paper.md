@@ -10,6 +10,7 @@ The paper list what I read
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
+- Deep Networks with Stochastic Depth
 - Distilling the Knowledge in a Neural Network
 - Domain-Adversarial Training of Neural Networks
 - Gaussian Error Linear Units (GELUs)
