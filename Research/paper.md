@@ -107,6 +107,7 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - Light Gated Recurrent Units for Speech Recognition
 - Listen, Attend and Spell
+- MarbleNet: Deep 1D Time-Channel Separable Convolutional Neural Network for Voice Activity Detection
 - Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict
 - Memory-Efficient Training of RNN-Transducer with Sampled Softmax
 - MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
