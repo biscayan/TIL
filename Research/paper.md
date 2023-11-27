@@ -67,6 +67,7 @@ The paper list what I read
 - Data Augmentation Improves Recognition of Foreign Accented Speech
 - Data Augmenting Contrastive Learning of Speech Representations in the Time Domain
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
+- Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling
 - Domain Adversarial Training for Accented Speech Recognition
 - E-Branchformer: Branchformer with Enhanced Merging for Speech Recognition
 - E2E Segmentation in a Two-Pass Cascaded Encoder ASR Model
