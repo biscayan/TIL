@@ -187,6 +187,7 @@ The paper list what I read
 ### Speech Synthesis
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
+- Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - Emotional Speech Synthesis With Rich And Granularized Control
 - FastSpeech: Fast, Robust and Controllable Text to Speech
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
