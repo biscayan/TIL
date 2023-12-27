@@ -191,6 +191,7 @@ The paper list what I read
 - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - Emotional Speech Synthesis With Rich And Granularized Control
 - FastSpeech: Fast, Robust and Controllable Text to Speech
+- Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
