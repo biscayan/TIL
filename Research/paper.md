@@ -23,6 +23,7 @@ The paper list what I read
 - Learning without Forgetting
 - Long-short Term Memory
 - Monotonic Chunkwise Attention
+- Online and Linear-Time Attention by Enforcing Monotonic Alignments
 - Overcoming catastrophic forgetting in neural networks
 - Progressive Neural Networks
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
