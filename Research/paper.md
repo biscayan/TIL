@@ -195,6 +195,7 @@ The paper list what I read
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
+- Period VITS: Variational Inference with Explicit Pitch Modeling for End-To-End Emotional Speech Synthesis
 - Tacotron: Towards end-to-end speech synthesis
 - VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
