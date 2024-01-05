@@ -237,6 +237,7 @@ The paper list what I read
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 - Rich feature hierarchies for accurate object detection and semantic segmentation
+- Squeeze-and-excitation networks
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 - Very deep convolutional networks for large-scale image recognition
 - You Only Look Once: Unified, Real-Time Object detection
