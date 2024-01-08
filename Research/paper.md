@@ -156,6 +156,7 @@ The paper list what I read
 - VAD-free Streaming Hybrid CTC/Attention ASR for Unsegmented Recording
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+- W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training
 - Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
 - Wav2Letter++: A Fast Open-source Speech Recognition System
 - wav2vec: Unsupervised Pre-training for Speech Recognition
