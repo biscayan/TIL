@@ -167,6 +167,7 @@ The paper list what I read
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
+- ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification
 - End-to-End Neural Speaker Diarization with Permutation-Free Objectives
 - End-to-end speaker segmentation for overlap-aware resegmentation
 - Generalized End-to-End Loss for Speaker Verifications
