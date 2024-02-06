@@ -184,6 +184,7 @@ The paper list what I read
 - A Fully Convolutional Neural Network for Speech Enhancement
 - Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression
 - Improved Speech Enhancement with the Wave-U-Net
+- Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms
 - Real Time Speech Enhancement in the Waveform Domain
 - SEGAN: Speech Enhancement Generative Adversarial Network
 - Self-Attentive VAD: Context-Aware Detection of Voice from Noise
