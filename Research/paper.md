@@ -203,6 +203,7 @@ The paper list what I read
 - Neural Speech Synthesis with Transformer Network
 - Period VITS: Variational Inference with Explicit Pitch Modeling for End-To-End Emotional Speech Synthesis
 - Tacotron: Towards end-to-end speech synthesis
+- YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for Everyone
 - VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
