@@ -185,6 +185,7 @@ The paper list what I read
 - A Fully Convolutional Neural Network for Speech Enhancement
 - Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression
 - Improved Speech Enhancement with the Wave-U-Net
+- NARA-WPE: A Python package for weighted prediction error dereverberation in Numpy and Tensorflow for online and offline processing
 - Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms
 - Real Time Speech Enhancement in the Waveform Domain
 - SEGAN: Speech Enhancement Generative Adversarial Network
