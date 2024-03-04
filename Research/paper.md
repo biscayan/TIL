@@ -184,6 +184,7 @@ The paper list what I read
 ### Speech Enhancement
 - A Fully Convolutional Neural Network for Speech Enhancement
 - Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression
+- FAST-RIR: Fast neural diffuse room impulse response generator
 - Improved Speech Enhancement with the Wave-U-Net
 - NARA-WPE: A Python package for weighted prediction error dereverberation in Numpy and Tensorflow for online and offline processing
 - Pyroomacoustics: A Python Package for Audio Room Simulation and Array Processing Algorithms
