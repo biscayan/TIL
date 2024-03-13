@@ -38,6 +38,7 @@ The paper list what I read
 - A Comparison of Sequence-to-Sequence Models for Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - A pitch extraction algorithm tuned for automatic speech recognition
+- A study on data augmentation of reverberant speech for robust speech recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
 - Active Learning for Speech Recognition: the Power of Gradients
 - Active Learning for LF-MMI Trained Neural Networks in ASR
