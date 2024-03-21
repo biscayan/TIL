@@ -146,6 +146,7 @@ The paper list what I read
 - SpeechStew: Simply Mix All Available Speech Recognition Data to Train One Large Neural Network
 - Spell My Name: Keyword Boosted Speech Recognition
 - Squeezeformer: An Efficient Transformer for Automatic Speech Recognition
+- Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition
 - Streaming Automatic Speech Recognition with the Transformer Models
 - Streaming End-to-end Speech Recognition for Mobile Devices
 - Streaming Transformer Asr With Blockwise Synchronous Beam Search
