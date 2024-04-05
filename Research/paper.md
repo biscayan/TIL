@@ -22,6 +22,7 @@ The paper list what I read
 - Learning with Pseudo-Ensembles
 - Learning without Forgetting
 - Long-short Term Memory
+- Mixed Precision Training
 - Monotonic Chunkwise Attention
 - Online and Linear-Time Attention by Enforcing Monotonic Alignments
 - Overcoming catastrophic forgetting in neural networks
