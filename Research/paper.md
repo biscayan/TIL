@@ -60,6 +60,7 @@ The paper list what I read
 - Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
+- Conmer: Streaming Conformer without self-attention for interactive voice assistants
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 - ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context
 - Continual Learning in Automatic Speech Recognition
