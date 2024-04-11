@@ -203,6 +203,7 @@ The paper list what I read
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
 - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+- Deep Voice: Real-time Neural Text-to-Speech
 - Emotional Speech Synthesis With Rich And Granularized Control
 - FastSpeech: Fast, Robust and Controllable Text to Speech
 - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search
