@@ -177,6 +177,7 @@ The paper list what I read
 - Deep speaker: an end-to-end neural speaker embedding system
 - ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification
 - End-to-End Neural Speaker Diarization with Permutation-Free Objectives
+- End-to-End Neural Speaker Diarization with Self-Attention
 - End-to-end speaker segmentation for overlap-aware resegmentation
 - Generalized End-to-End Loss for Speaker Verifications
 - Improved RawNet with Feature Map Scaling for Text-independent Speaker Verification using Raw Waveformss
