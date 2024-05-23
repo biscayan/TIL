@@ -246,6 +246,7 @@ The paper list what I read
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
 - SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
+- Thutmose Tagger: Single-pass neural model for Inverse Text Normalization
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 - Transformers: State-of-the-Art Natural Language Processing
 ### Computer vision
