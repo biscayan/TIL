@@ -54,6 +54,7 @@ The paper list what I read
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
+- Blank Collapse: Compressing CTC emission for the faster decoding
 - Branchformer: Parallel MLP-Attention Architectures to Capture Local and Global Context for Speech Recognition and Understanding
 - ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
 - Common Voice: A Massively-Multilingual Speech Corpus
