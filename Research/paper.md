@@ -83,6 +83,7 @@ The paper list what I read
 - End-to-end Accented Speech Recognition
 - End-to-End Automatic Speech Recognition Integrated with CTC-Based Voice Activity Detection
 - End-to-end Speech Recognition Using Lattice-free MMI
+- End-to-end Speech Recognition with Word-based RNN Language Models
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - ESPnet: End-to-end Speech Processing Toolkit
 - ESPnet-ONNX: Bridging a Gap Between Research and Production
