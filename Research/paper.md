@@ -126,6 +126,7 @@ The paper list what I read
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-task Learning for Speech Recognition: An overview
+- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 - MUSAN: A Music, Speech, and Noise Corpus
 - NeMo: a toolkit for building AI applications using Neural Modules
 - Online Continual Learning of End-to-End Speech Recognition Models
