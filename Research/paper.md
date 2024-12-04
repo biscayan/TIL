@@ -243,6 +243,7 @@ The paper list what I read
 - Language Modeling with Deep Transformers
 - Language Models are Unsupervised Multitask Learners
 - Longformer: The Long-Document Transformer
+- LoRA: Low-Rank Adaptation of Large Language Models
 - Neural Machine Translation of Rare Words with Subword Units
 - Recent Trends in the Use of Deep Learning Models for Grammar Error Handling
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach
