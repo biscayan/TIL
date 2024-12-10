@@ -163,6 +163,7 @@ The paper list what I read
 - Towards Fast and Accurate Streaming End-To-End ASR
 - Transformer transducer: A streamable speech recognition model with transformer encoders and rnn-t loss
 - Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
+- Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition
 - VAD-free Streaming Hybrid CTC/Attention ASR for Unsegmented Recording
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
