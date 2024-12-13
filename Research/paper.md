@@ -51,7 +51,6 @@ The paper list what I read
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
 - Audio Augmentation for Speech Recognition
-- AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Blank Collapse: Compressing CTC emission for the faster decoding
@@ -222,14 +221,6 @@ The paper list what I read
 - VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
-### Emotion Recognition
-- Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
-- Multimodal Emotion Recognition with High-level Speech and Text Features
-- Multimodal Speech Emotion Recognition and Ambiguity Resolution
-- Multimodal Speech Emotion Recognition Using Audio and Text
-- Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
-- Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
-- Tensor Fusion Network for Multimodal Sentiment Analysis
 ### Voice Conversion
 - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 ### Natural Language Processing
@@ -265,6 +256,15 @@ The paper list what I read
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 - Very deep convolutional networks for large-scale image recognition
 - You Only Look Once: Unified, Real-Time Object detection
+### Multi Modal
+- AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
+- Multimodal Emotion Recognition with High-level Speech and Text Features
+- Multimodal Speech Emotion Recognition and Ambiguity Resolution
+- Multimodal Speech Emotion Recognition Using Audio and Text
+- Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
+- Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
+- Tensor Fusion Network for Multimodal Sentiment Analysis
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
 - Playing Atari with Deep Reinforcement Learning
