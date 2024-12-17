@@ -263,6 +263,7 @@ The paper list what I read
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
 - Multimodal Speech Emotion Recognition Using Audio and Text
 - Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
+- SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
 - Tensor Fusion Network for Multimodal Sentiment Analysis
 ### Reinforcement Learning
