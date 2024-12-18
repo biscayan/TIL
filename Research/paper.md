@@ -258,6 +258,7 @@ The paper list what I read
 - You Only Look Once: Unified, Real-Time Object detection
 ### Multi Modal
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
