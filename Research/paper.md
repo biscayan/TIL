@@ -267,6 +267,7 @@ The paper list what I read
 - Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
 - SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
+- SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
 - Tensor Fusion Network for Multimodal Sentiment Analysis
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
