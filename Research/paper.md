@@ -257,6 +257,7 @@ The paper list what I read
 - Very deep convolutional networks for large-scale image recognition
 - You Only Look Once: Unified, Real-Time Object detection
 ### Multi Modal
+- A Survey on Speech Large Language Models
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
