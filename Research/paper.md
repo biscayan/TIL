@@ -271,6 +271,7 @@ The paper list what I read
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
 - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
 - Tensor Fusion Network for Multimodal Sentiment Analysis
+- Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
 - Playing Atari with Deep Reinforcement Learning
