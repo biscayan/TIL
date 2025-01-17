@@ -271,6 +271,7 @@ The paper list what I read
 - SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
 - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
+- Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - Tensor Fusion Network for Multimodal Sentiment Analysis
 - Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Reinforcement Learning
