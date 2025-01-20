@@ -261,6 +261,7 @@ The paper list what I read
 - Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
+- LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
