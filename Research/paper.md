@@ -1,7 +1,7 @@
 # Paper
 The paper list what I read
 ## Paper list
-### Machine Learning & Deep Learning
+### ML/DL
 - A Comparative Survey of Deep Active Learning
 - A Survey of Deep Active Learning
 - A Survey on Deep Transfer Learning
@@ -223,7 +223,7 @@ The paper list what I read
 - Wavenet: A Generative Model for Raw Audio
 ### Voice Conversion
 - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
-### Natural Language Processing
+### NLP/LLM
 - An algorithm for suffix stripping
 - Attention is all you need
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
@@ -236,6 +236,7 @@ The paper list what I read
 - Language Models are Unsupervised Multitask Learners
 - Longformer: The Long-Document Transformer
 - LoRA: Low-Rank Adaptation of Large Language Models
+- Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
 - Neural Machine Translation of Rare Words with Subword Units
 - Recent Trends in the Use of Deep Learning Models for Grammar Error Handling
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach
